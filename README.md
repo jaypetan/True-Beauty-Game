@@ -11,4 +11,4 @@ Your bullets are the words "NO", and you have to try your best to manuever a par
 escaping from "red flags" ( who will chase after you ) and "gym bros" ( who will shoot gym membeships at you ). \
 Your goal is to find the secrets to true beauty.
 
-###  Try the game [HERE](https://jaypetan.itch.io/true-beauty) 
+##  Try the game [HERE](https://jaypetan.itch.io/true-beauty) 
