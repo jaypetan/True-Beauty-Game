@@ -1,5 +1,6 @@
 # True-Beauty-Game
-3D parkour game created in Unity [ Try the game: [jaypetan](https://jaypetan.itch.io/true-beauty) ]
+## [ Try the game: [jaypetan](https://jaypetan.itch.io/true-beauty) ]
+3D parkour game created in Unity 
 - First Person shooter (FPS)
 - Non-playable Characters (NPC) with nav mesh tracking
 - NPC with dialogue to guide and add comedic effect
