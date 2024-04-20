@@ -1,5 +1,4 @@
 # True-Beauty-Game
-## [ Try the game: [jaypetan](https://jaypetan.itch.io/true-beauty) ]
 3D parkour game created in Unity 
 - First Person shooter (FPS)
 - Non-playable Characters (NPC) with nav mesh tracking
@@ -11,3 +10,5 @@ You play as an person with low self confidence, and your conscience guides you t
 Your bullets are the words "NO", and you have to try your best to manuever a parkour map, \
 escaping from "red flags" ( who will chase after you ) and "gym bros" ( who will shoot gym membeships at you ). \
 Your goal is to find the secrets to true beauty.
+
+## [ Try the game: [jaypetan](https://jaypetan.itch.io/true-beauty) ]
